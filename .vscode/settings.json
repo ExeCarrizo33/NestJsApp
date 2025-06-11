@@ -2,5 +2,6 @@
     "material-icon-theme.activeIconPack": "nest",
     "conventionalCommits.scopes": [
         "users y CRUD"
-    ]
+    ],
+    "echoapi.documentServicePort": 3000
 }
